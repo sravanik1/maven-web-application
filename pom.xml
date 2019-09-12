@@ -92,12 +92,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Sravani Nexus Repository</name>
-	      <url>http://13.234.37.189:8080/mithuntechnologies/repository/paytm-release/</url>
+	      <url>http://13.234.37.189:8081/mithuntechnologies/repository/paytm-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Sravani Snapshot Nexus Repository </name>
-	      <url>http://13.234.37.189:8080/mithuntechnologies/repository/paytm-snapshot/</url>
+	      <url>http://13.234.37.189:8081/mithuntechnologies/repository/paytm-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
