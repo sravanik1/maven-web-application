@@ -1,2 +1,3 @@
 this file is introduced for jenkins practice.
 push code to git repository so that jenkins automatically runs the build when there are any changes in https://github.com/sravanik1/maven-web-application.git
+introducing webhook plugin in jenkins and git 
